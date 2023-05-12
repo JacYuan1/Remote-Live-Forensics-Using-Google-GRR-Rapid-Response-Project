@@ -35,4 +35,4 @@ The tools used here are the following:
 
 ## References
 
-[Written report linked here]()
+[Written report linked here](https://github.com/JacYuan1/Remote-Live-Forensics-Using-Google-GRR-Rapid-Response-Project/blob/main/Report.pdf)
